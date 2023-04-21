@@ -1,0 +1,41 @@
+body{
+           
+    background-color: #f8f7f7;
+    background-repeat: no-repeat;
+    background-clip: border-box;
+    background-size: auto;
+   back
+}
+
+form {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background-color: #cac7c7;
+
+    border-radius: 5px;
+   
+}
+
+label,input,select{
+    display: block;
+    margin-bottom: 10px;
+    width:100%;
+    font-weight: bold;
+}
+
+
+input[type="submit"]{
+    background-color: #4CAF50;
+    color:#fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius:5px;
+    cursor:pointer;
+    font-size: 16px;
+}
+
+input[type="submit"]:hover{
+    background-color: #3e8e41;
+
+}
